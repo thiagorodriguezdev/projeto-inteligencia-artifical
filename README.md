@@ -56,7 +56,6 @@ Vercel         → Hospedagem e CI/CD
 Google Fonts   → Tipografia moderna
 Font Awesome   → Ícones vetoriais
 
----
 
 projeto-inteligencia-artificial/
 ├── index.html              # Página principal
@@ -137,7 +136,3 @@ Vercel – Hospedagem gratuita e rápida
 Projeto concluído com sucesso no Curso
 Desenvolvimento Web Compacto e Completo
 Professor João Ribeiro (Udemy)
-
-
-<img src="https://img.shields.io/badge/Curso%20na%20Udemy-FF6B00?style=for-the-badge&#x26;logo=udemy&#x26;logoColor=white" alt="Curso na Udemy">
-<img src="https://img.shields.io/badge/Visitar%20Site-0066FF?style=for-the-badge&#x26;logo=vercel&#x26;logoColor=white" alt="Visitar Site">
