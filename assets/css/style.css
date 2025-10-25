@@ -45,3 +45,18 @@ body {
 .container-navegacao a:hover {
   color: #fff;
 }
+
+/* -------------------------------- */
+.container-quem-somos {
+  background-color: #05192a;
+  overflow: auto;
+}
+
+.container-quem-somos .servico {
+  float: center;
+  margin: 60px auto;
+  background-color: #061f35;
+  width: 50%;
+  border-radius: 10px;
+  text-align: center;
+}
