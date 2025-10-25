@@ -10,7 +10,7 @@
 
 <br>
 
-[![Preview do Site](https://raw.githubusercontent.com/SEU_USUARIO/projeto-inteligencia-artificial/main/assets/preview.png)](https://projeto-inteligencia-artifical.vercel.app/index.html)
+![Preview do Site](https://api.screenshotlayer.com/api/capture?access_key=SEU_ACCESS_KEY&url=https://projeto-inteligencia-artifical.vercel.app&viewport=1920x1080&width=1200&format=PNG&css_url=&delay=3&force=1)
 
 > **Landing page profissional de uma empresa de Inteligência Artificial**  
 > Projeto prático desenvolvido durante o **Curso Desenvolvimento Web Compacto e Completo** do professor **João Ribeiro** (Udemy).
