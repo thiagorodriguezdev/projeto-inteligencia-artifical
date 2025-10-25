@@ -26,12 +26,10 @@
 Este projeto foi **construído do zero** como parte do **Curso Desenvolvimento Web Compacto e Completo** do professor **João Ribeiro**, um dos mais completos cursos de Front-end e Full-stack na Udemy.
 
 ### Objetivo do Projeto
-Criar uma **landing page institucional moderna, responsiva e profissional** para uma empresa fictícia de **Inteligência Artificial**, aplicando os conceitos fundamentais de:
+Criar uma **landing page institucional moderna e profissional** para uma empresa fictícia de **Inteligência Artificial**, aplicando os conceitos fundamentais de:
 
 - **HTML5 semântico**
-- **CSS3 com Flexbox, Grid e animações**
-- **JavaScript puro (DOM, eventos, scroll suave)**
-- **Design responsivo (mobile-first)**
+- **CSS3**
 - **Boas práticas de código e acessibilidade**
 
 ---
@@ -53,11 +51,12 @@ Criar uma **landing page institucional moderna, responsiva e profissional** para
 
 ```text
 HTML5          → Estrutura semântica
-CSS3           → Estilos, animações, responsividade
-JavaScript     → Menu mobile, interatividade
+CSS3           → Estilos
 Vercel         → Hospedagem e CI/CD
 Google Fonts   → Tipografia moderna
 Font Awesome   → Ícones vetoriais
+
+---
 
 projeto-inteligencia-artificial/
 ├── index.html              # Página principal
