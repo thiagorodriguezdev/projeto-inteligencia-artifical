@@ -31,16 +31,3 @@ Criar uma **landing page institucional moderna e profissional** para uma empresa
 - **Boas práticas de código e acessibilidade**
 
 ---
-
-## ✨ Funcionalidades Implementadas
-
-| Ícone | Recurso |
-|-------|--------|
-| ✅ | Layout 100% responsivo |
-|cine | Menu hambúrguer funcional (mobile) |
-|animation | Animações suaves ao rolar a página |
-|icons | Ícones SVG e tipografia profissional |
-|code | Código limpo, comentado e organizado |
-|deploy | Deploy automático com Vercel |
-
----
